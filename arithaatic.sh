@@ -3,7 +3,7 @@
 num1=10
 num2=5
 
-echo "sum is : $(( num1 +n um2 ))"
+echo "sum is : $(( num1 +nhum2 ))"
 echo "diff is : $(( num1 - num2 ))"
 echo "pdt is : $(( num1 * num2 ))"
 echo "div is : $(( num1 / num2 ))"
