@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/bas
 
 
 echo "This is test file"
